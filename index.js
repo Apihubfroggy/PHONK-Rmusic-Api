@@ -3,8 +3,8 @@ const app = express();
 const port = 3000;
 
 const audioLinks = [
-  "link",
-  "https://drive.google.com/uc?export=download&id=1RukzVj3lvNHh9hyQkJdVlCXHafszCOhp"
+ "https://drive.google.com/uc?export=download&id=1SDHfamOIXO4D50XZ-rzmzKUXYHRSutLq",
+ "https://drive.google.com/uc?export=download&id=1SJEMd-7Yrc-yeMAy_6-E1OywsK8-PRna"
 ];
 
 app.get('/', (req, res) => {
